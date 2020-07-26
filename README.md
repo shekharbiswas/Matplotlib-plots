@@ -1,3 +1,3 @@
 # Matplotlib-plots
 
-This project contains samples of matplotlib plots.
+This project contains sample plots built using matplotlib.
